@@ -1,9 +1,7 @@
 ---
 layout: post
-title: It's Rewind Time!
+title: The Big O Notation!
 ---
-
-### The Big O:
 
 For those who are beggining the world of algorithims, you need to have a basic knowledge of the Big O Notation. If you literaly google "Big O Notation", it says this:
 
