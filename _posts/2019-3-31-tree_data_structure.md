@@ -17,3 +17,13 @@ Despite this, we commonly use a node that branches out to a maximum of 2 nodes. 
             /  \   /  \
           15   31  55  75
 </pre>
+
+
+```py
+def bfs(node):
+    if not node:
+        return
+    bfs(node.left)
+    print(node.val)
+    bfs(node.right)
+```
